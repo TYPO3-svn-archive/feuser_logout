@@ -1,0 +1,4 @@
+plugin.tx_feuserlogout_pi1 {
+	# cat=plugin.feuser_logout; type=int+; label= PID for Logout: Redirect to this site after logout.
+	logoutPid =
+}
